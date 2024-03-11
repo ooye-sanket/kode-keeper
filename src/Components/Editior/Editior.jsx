@@ -26,4 +26,5 @@ function Editior({ editiorRef, previewRef }) {
   );
 }
 
+
 export default Editior;
